@@ -1,0 +1,13 @@
+.footer {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  background-color: rgba(0, 78, 54, 255);
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}

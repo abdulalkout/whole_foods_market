@@ -1,0 +1,26 @@
+.saleItemImage {
+  height: 150px;
+  background-color: rgba(249, 248, 244, 255);
+}
+
+.saleItem {
+  height: 100px;
+  width: 150px;
+}
+
+.saleListDiv {
+  margin: 40px 30px 40px 30px;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.saleLinks {
+  text-decoration: none;
+  color: rgba(0, 78, 54, 255);
+  font-weight: 600;
+}
+
+.saleLinks :hover {
+  text-decoration: underline;
+}

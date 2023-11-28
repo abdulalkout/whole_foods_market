@@ -1,0 +1,35 @@
+.allNavBars {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.navDiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 40px 10px 40px;
+  height: 55px;
+  background-color: rgba(0, 78, 54, 255);
+  color: aliceblue;
+}
+
+.searchBar {
+  margin-top: 10px;
+  width: 500px;
+  height: 30px;
+  border: none;
+  border-radius: 30px;
+}
+
+.navLinks {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.logo {
+  margin-top: 5px;
+  margin-left: 20px;
+  border-radius: 50%;
+}

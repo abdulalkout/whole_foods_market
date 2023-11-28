@@ -1,0 +1,13 @@
+.navExtension {
+  background-color: rgba(248, 247, 245, 255);
+  color: rgb(13, 114, 76);
+  height: 40px;
+  padding-top: 10px;
+}
+
+.navExtensionLinks {
+  margin-left: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-size: small;
+}
